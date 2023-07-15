@@ -9,7 +9,7 @@ class UserScreen extends StatefulWidget {
 
   List<User> users;
   DatabaseHelper dbHelper;
-
+  
   @override
   _UserScreenState createState() => _UserScreenState();
 }
